@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_class" table="x_366445_nefta_tra_applicants" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Class 1</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>0</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 21:42:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a222dc7edb9200100bcd7a61399619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 21:42:22</sys_updated_on>
+            <value>class1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Class 2</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>1</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 21:42:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e622dc7edb9200100bcd7a61399619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 21:42:22</sys_updated_on>
+            <value>class2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Class3</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>2</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 21:42:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6622dc7edb9200100bcd7a61399619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 21:42:22</sys_updated_on>
+            <value>class3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Class 4</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>3</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 21:42:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e22210bedb9200100bcd7a6139961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 21:42:22</sys_updated_on>
+            <value>class4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_class</element>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 21:42:22</sys_created_on>
+            <sys_id>2e22dc7edb9200100bcd7a61399619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_class</sys_name>
+            <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+            <sys_update_name>sys_choice_x_366445_nefta_tra_applicants_u_class</sys_update_name>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 21:42:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

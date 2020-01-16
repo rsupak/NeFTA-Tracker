@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>nefta</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles>x_366445_nefta_tra.nefta_admin</roles>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>richard.supak</sys_created_by>
+        <sys_created_on>2020-01-16 03:49:00</sys_created_on>
+        <sys_id>cfe5a97adbd600100bcd7a613996198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>nefta</sys_name>
+        <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+        <sys_update_name>sp_page_cfe5a97adbd600100bcd7a613996198b</sys_update_name>
+        <sys_updated_by>richard.supak</sys_updated_by>
+        <sys_updated_on>2020-01-16 03:49:00</sys_updated_on>
+        <title>NeFTA</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=cfe5a97adbd600100bcd7a613996198b"/>
+</record_update>

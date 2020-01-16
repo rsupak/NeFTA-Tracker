@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b0080836db9200100bcd7a6139961998" sys_domain="global" table="x_366445_nefta_tra_applicants" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 20:58:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc080836db9200100bcd7a613996199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366445_nefta_tra_applicants" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">b0080836db9200100bcd7a6139961998</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">e2264c72db9200100bcd7a613996195d</sys_ui_section>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 20:58:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 20:58:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8080836db9200100bcd7a613996199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366445_nefta_tra_applicants" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">b0080836db9200100bcd7a6139961998</sys_ui_form>
+            <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 20:58:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 21:45:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91d258bedb9200100bcd7a61399619b9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366445_nefta_tra_applicants" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">b0080836db9200100bcd7a6139961998</sys_ui_form>
+            <sys_ui_section caption="Rejection Information" display_value="Rejection Information" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">19d258bedb9200100bcd7a6139961914</sys_ui_section>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 21:45:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 21:07:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f3a48b6db9200100bcd7a6139961974</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366445_nefta_tra_applicants" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">b0080836db9200100bcd7a6139961998</sys_ui_form>
+            <sys_ui_section caption="ServiceNow Certifications" display_value="ServiceNow Certifications" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">7b3a08b6db9200100bcd7a61399619d0</sys_ui_section>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 21:45:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-16 03:27:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd112df2dbd600100bcd7a6139961978</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366445_nefta_tra_applicants" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">b0080836db9200100bcd7a6139961998</sys_ui_form>
+            <sys_ui_section caption="Asset Management" display_value="Asset Management" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">bd11e9f2dbd600100bcd7a61399619c6</sys_ui_section>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-16 03:52:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-16 03:53:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d2721fadbd600100bcd7a613996199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366445_nefta_tra_applicants" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">b0080836db9200100bcd7a6139961998</sys_ui_form>
+            <sys_ui_section caption="Interviews" display_value="Interviews" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">e12721fadbd600100bcd7a6139961998</sys_ui_section>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-16 03:53:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_366445_nefta_tra_applicants</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 20:58:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0080836db9200100bcd7a6139961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366445_nefta_tra_applicants</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b0080836db9200100bcd7a6139961998</sys_update_name>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 20:58:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

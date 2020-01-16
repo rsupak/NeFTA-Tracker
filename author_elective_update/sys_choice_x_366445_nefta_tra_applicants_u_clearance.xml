@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_clearance" table="x_366445_nefta_tra_applicants" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_clearance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Secret</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>0</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 23:41:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b87d24b6db1600100bcd7a6139961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 23:41:35</sys_updated_on>
+            <value>secret</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_clearance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Top Secret</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>1</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 23:41:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc7d24b6db1600100bcd7a6139961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 23:41:35</sys_updated_on>
+            <value>topsecret</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_clearance</element>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-15 23:41:35</sys_created_on>
+            <sys_id>f07d24b6db1600100bcd7a6139961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_clearance</sys_name>
+            <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+            <sys_update_name>sys_choice_x_366445_nefta_tra_applicants_u_clearance</sys_update_name>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-15 23:41:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

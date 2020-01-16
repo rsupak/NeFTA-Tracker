@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Interviews" section_id="b615cdbadb5600100bcd7a61399619b0" sys_domain="global" table="x_366445_nefta_tra_applicants" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Interviews</caption>
+            <header>false</header>
+            <name>x_366445_nefta_tra_applicants</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-16 01:24:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b615cdbadb5600100bcd7a61399619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Interviews</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+            <sys_update_name>sys_ui_section_b615cdbadb5600100bcd7a61399619b0</sys_update_name>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-16 01:24:56</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</application>
+        <file_path/>
+        <instance_id>d702b1a6db369700536ad5b0cf961953</instance_id>
+        <instance_name>dev62275</instance_name>
+        <name>sys_ui_section_b615cdbadb5600100bcd7a61399619b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Interviews" section_id="b615cdbadb5600100bcd7a61399619b0" sys_domain="global" table="x_366445_nefta_tra_applicants" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>Interviews</caption><header>false</header><name>x_366445_nefta_tra_applicants</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>richard.supak</sys_created_by><sys_created_on>2020-01-16 01:24:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b615cdbadb5600100bcd7a61399619b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Interviews</sys_name><sys_overrides/><sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package><sys_policy/><sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope><sys_update_name>sys_ui_section_b615cdbadb5600100bcd7a61399619b0</sys_update_name><sys_updated_by>richard.supak</sys_updated_by><sys_updated_on>2020-01-16 01:24:56</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-452785257</payload_hash>
+        <record_name>Applicants</record_name>
+        <reverted_from/>
+        <source>7d944c32db9200100bcd7a61399619b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>richard.supak</sys_created_by>
+        <sys_created_on>2020-01-16 01:24:57</sys_created_on>
+        <sys_id>3e15cdbadb5600100bcd7a61399619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fabf412ed0000001</sys_recorded_at>
+        <sys_updated_by>richard.supak</sys_updated_by>
+        <sys_updated_on>2020-01-16 01:24:57</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>b615cdba58560010fefcc4c2218cdbdc</update_guid>
+        <update_guid_history>b615cdba58560010fefcc4c2218cdbdc:-452785257</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>richard.supak</sys_created_by>
+        <sys_created_on>2020-01-16 03:53:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2f85bf75e2014380afc509572162bd10</sys_id>
+        <sys_metadata>b615cdbadb5600100bcd7a61399619b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Interviews</sys_name>
+        <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+        <sys_parent display_value="Applicants">3dd544b2db9200100bcd7a61399619fd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+        <sys_scope_delete display_value="">918175dc17c745b69e120c904e7dd9d9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b615cdbadb5600100bcd7a61399619b0</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b615cdbadb5600100bcd7a61399619b0">3e15cdbadb5600100bcd7a61399619dc</sys_update_version>
+        <sys_updated_by>richard.supak</sys_updated_by>
+        <sys_updated_on>2020-01-16 03:53:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

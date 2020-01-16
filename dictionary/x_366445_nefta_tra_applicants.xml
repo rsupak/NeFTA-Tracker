@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Applicants" max_length="40" name="x_366445_nefta_tra_applicants" type="collection">
+        <element label="Contract Signed" max_length="40" name="contract_signed" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Initial Contact" max_length="40" name="initial_contact" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Offer Accepted" max_length="40" name="offer_accepted" type="boolean"/>
+        <element label="Offer Extended" max_length="40" name="offer_extended" type="boolean"/>
+        <element label="Phone number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="CAD" max_length="40" name="u_app_dev" type="boolean"/>
+        <element label="CAD Certification" max_length="40" name="u_app_dev_cert" type="file_attachment"/>
+        <element label="Pass Business Interview" max_length="40" name="u_business_interview" type="boolean"/>
+        <element label="CIS-ITSM Certificate" max_length="40" name="u_cis_cert" type="file_attachment"/>
+        <element label="CIS - ITSM" max_length="40" name="u_cis_itsm" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Class" max_length="40" name="u_class" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Class 1" sequence="0" value="class1"/>
+                <element inactive_on_update="false" label="Class 2" sequence="1" value="class2"/>
+                <element inactive_on_update="false" label="Class3" sequence="2" value="class3"/>
+                <element inactive_on_update="false" label="Class 4" sequence="3" value="class4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Clearance" max_length="40" name="u_clearance" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Secret" sequence="0" value="secret"/>
+                <element inactive_on_update="false" label="Top Secret" sequence="1" value="topsecret"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Computer SN" max_length="40" name="u_computer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Computer Checkout Status" max_length="40" name="u_computer_checkout" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Checked Out" sequence="0" value="checked_out"/>
+                <element inactive_on_update="false" label="Returned" sequence="1" value="returned"/>
+                <element inactive_on_update="false" label="Out for Repair" sequence="2" value="repair"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Contacted By" max_length="32" name="u_contacted_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Notes" max_length="40" name="u_contact_notes" type="string"/>
+        <element label="CSA" max_length="40" name="u_csa" type="boolean"/>
+        <element label="CSA Certificate" max_length="40" name="u_csa_cert" type="file_attachment"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_10" type="file_attachment"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_8" type="file_attachment"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_9" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Recruitment Consultant" max_length="40" name="u_recruitment_consultant" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Referred By" max_length="40" name="u_referred_by" type="string"/>
+        <element label="Rejection Letter Sent" max_length="40" name="u_rejection_letter_sent" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Rejection Reason" max_length="40" name="u_rejection_reason" type="string"/>
+        <element label="Resume" max_length="40" name="u_resume" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Screening" max_length="40" name="u_screening" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Accept" sequence="0" value="accept"/>
+                <element inactive_on_update="false" label="Reject" sequence="1" value="reject"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Source" max_length="40" name="u_source" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Coretta Roddey (NYLC)" sequence="0" value="coretta_roddey"/>
+                <element inactive_on_update="false" label="HHUSA" sequence="0" value="hhusa"/>
+                <element inactive_on_update="false" label="NeFTA Website" sequence="1" value="nefta website"/>
+                <element inactive_on_update="false" label="Jeannie Santiago (NYLC)" sequence="2" value="jeannie_santiago"/>
+                <element inactive_on_update="false" label="Referral" sequence="3" value="referral"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_2" type="string"/>
+        <element label="Pass Tech Interview" max_length="40" name="u_tech_interview" type="boolean"/>
+        <index name="index">
+            <element name="u_contacted_by"/>
+        </index>
+    </element>
+</database>
