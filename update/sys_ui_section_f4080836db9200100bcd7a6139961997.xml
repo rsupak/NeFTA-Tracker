@@ -4,13 +4,13 @@
             <element>initial_contact</element>
             <position>0</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>e0e72dfadbd600100bcd7a6139961986</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>feaa0374db2200100bcd7a6139961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_contacted_by</element>
             <position>1</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>68e72dfadbd600100bcd7a6139961986</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>b6aa0374db2200100bcd7a6139961946</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_resume</element>
             <position>2</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>ece72dfadbd600100bcd7a6139961986</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>3aaa0374db2200100bcd7a6139961946</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>u_clearance</element>
             <position>3</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>64e72dfadbd600100bcd7a6139961987</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>baaa0374db2200100bcd7a6139961946</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>e8e72dfadbd600100bcd7a6139961987</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>3eaa0374db2200100bcd7a6139961946</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>u_tech_interview</element>
             <position>5</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>60e72dfadbd600100bcd7a6139961988</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>beaa0374db2200100bcd7a6139961946</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,83 +88,97 @@
             <element>u_business_interview</element>
             <position>6</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>e4e72dfadbd600100bcd7a6139961988</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>32aa0374db2200100bcd7a6139961947</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_final_interview</element>
+            <position>7</position>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>b2aa0374db2200100bcd7a6139961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>offer_extended</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>6ce72dfadbd600100bcd7a6139961988</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>36aa0374db2200100bcd7a6139961947</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>offer_accepted</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>e0e72dfadbd600100bcd7a6139961989</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>b6aa0374db2200100bcd7a6139961947</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>contract_signed</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>68e72dfadbd600100bcd7a6139961989</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>3aaa0374db2200100bcd7a6139961947</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>ece72dfadbd600100bcd7a6139961989</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>baaa0374db2200100bcd7a6139961947</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_contact_notes</element>
-            <position>11</position>
+            <element>u_contact_journal</element>
+            <position>12</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:56:53</sys_created_on>
-            <sys_id>64e72dfadbd600100bcd7a613996198a</sys_id>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>3eaa0374db2200100bcd7a6139961947</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contact and CV" display_value="Contact and CV" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">f4080836db9200100bcd7a6139961997</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:56:53</sys_updated_on>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

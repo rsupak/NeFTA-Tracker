@@ -4,27 +4,41 @@
             <element>u_rejection_reason</element>
             <position>0</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:54:43</sys_created_on>
-            <sys_id>7c6725fadbd600100bcd7a61399619ee</sys_id>
+            <sys_created_on>2020-01-22 18:08:50</sys_created_on>
+            <sys_id>a664eb7cdb6200100bcd7a613996193d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Rejection Information" display_value="Rejection Information" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">19d258bedb9200100bcd7a6139961914</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:54:43</sys_updated_on>
+            <sys_updated_on>2020-01-22 18:08:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_rejected_by</element>
+            <position>1</position>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-22 18:08:50</sys_created_on>
+            <sys_id>2e64eb7cdb6200100bcd7a613996193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Rejection Information" display_value="Rejection Information" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">19d258bedb9200100bcd7a6139961914</sys_ui_section>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-22 18:08:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_rejection_letter_sent</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:54:43</sys_created_on>
-            <sys_id>f46725fadbd600100bcd7a61399619ef</sys_id>
+            <sys_created_on>2020-01-22 18:08:50</sys_created_on>
+            <sys_id>ae64eb7cdb6200100bcd7a613996193d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Rejection Information" display_value="Rejection Information" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">19d258bedb9200100bcd7a6139961914</sys_ui_section>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:54:43</sys_updated_on>
+            <sys_updated_on>2020-01-22 18:08:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

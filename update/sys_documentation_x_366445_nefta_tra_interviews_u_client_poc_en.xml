@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_client_poc" label="Client Contact" language="en" table="x_366445_nefta_tra_interviews">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_client_poc</element>
+            <help/>
+            <hint/>
+            <label>Client Contact</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_interviews</name>
+            <plural>Client Contacts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-22 00:11:15</sys_created_on>
+            <sys_id>25cde36cdba600100bcd7a613996198f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Client Contact</sys_name>
+            <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+            <sys_update_name>sys_documentation_x_366445_nefta_tra_interviews_u_client_poc_en</sys_update_name>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-22 00:25:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

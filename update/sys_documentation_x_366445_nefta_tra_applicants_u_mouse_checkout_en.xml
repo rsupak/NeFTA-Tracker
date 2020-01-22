@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_mouse_checkout" label="Mouse Checkout Status" language="en" table="x_366445_nefta_tra_applicants">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_mouse_checkout</element>
+            <help/>
+            <hint/>
+            <label>Mouse Checkout Status</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <plural>Mouse Checkout Status</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-22 16:16:19</sys_created_on>
+            <sys_id>96aacf34db2200100bcd7a61399619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mouse Checkout Status</sys_name>
+            <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+            <sys_update_name>sys_documentation_x_366445_nefta_tra_applicants_u_mouse_checkout_en</sys_update_name>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-22 16:16:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

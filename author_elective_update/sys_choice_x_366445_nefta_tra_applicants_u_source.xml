@@ -62,19 +62,57 @@
             <element>u_source</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Jeannie Santiago (NYLC)</label>
+            <label>LinkedIn</label>
             <language>en</language>
             <name>x_366445_nefta_tra_applicants</name>
             <sequence>2</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-22 19:05:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b61bffcdb6200100bcd7a61399619d5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-22 19:05:59</sys_updated_on>
+            <value>LinkedIn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Jeannie Santiago (NYLC)</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>3</sequence>
             <sys_created_by>richard.supak</sys_created_by>
             <sys_created_on>2020-01-16 03:34:09</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d7a2e176dbd600100bcd7a613996192f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-22 19:05:59</sys_updated_on>
+            <value>jeannie_santiago</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Veteran Connection</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>4</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-22 19:06:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25a1bb78dba200100bcd7a6139961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:34:09</sys_updated_on>
-            <value>jeannie_santiago</value>
+            <sys_updated_on>2020-01-22 19:06:39</sys_updated_on>
+            <value>Veteran Connection</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -84,15 +122,15 @@
             <label>Referral</label>
             <language>en</language>
             <name>x_366445_nefta_tra_applicants</name>
-            <sequence>3</sequence>
+            <sequence>5</sequence>
             <sys_created_by>richard.supak</sys_created_by>
             <sys_created_on>2020-01-15 22:40:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>588f50badbd200100bcd7a6139961942</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 01:14:26</sys_updated_on>
+            <sys_updated_on>2020-01-22 19:06:39</sys_updated_on>
             <value>referral</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">

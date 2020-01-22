@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="My Homepage 1">73627b60dbe600100bcd7a61399619e8</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>ce5e936cdb6600100bcd7a6139961904</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>richard.supak</sys_created_by>
+        <sys_created_on>2020-01-22 00:32:08</sys_created_on>
+        <sys_id>6b8277a0dbe600100bcd7a6139961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ce5e936cdb6600100bcd7a6139961904</sys_name>
+        <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_6b8277a0dbe600100bcd7a6139961957</sys_update_name>
+        <sys_updated_by>richard.supak</sys_updated_by>
+        <sys_updated_on>2020-01-22 00:32:08</sys_updated_on>
+        <type>3</type>
+        <user display_value="NeFTA Read-Only">ce5e936cdb6600100bcd7a6139961904</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

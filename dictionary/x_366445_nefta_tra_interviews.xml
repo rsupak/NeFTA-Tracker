@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Interviews" max_length="40" name="x_366445_nefta_tra_interviews" type="collection">
+        <element label="Client Contact Number" max_length="40" name="client_poc_phone_number" type="phone_number_e164"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Client Name" max_length="40" name="u_client_name" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Deloitte" sequence="0" value="deloitte"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="USAA" sequence="1" value="usaa"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Discover Technologies" sequence="2" value="discover_tech"/>
+                <element inactive_on_update="false" label="George Street Inc." sequence="3" value="george_street"/>
+                <element inactive_on_update="false" label="CSC Global" sequence="4" value="csc_global"/>
+                <element inactive_on_update="false" label="LMI" sequence="5" value="lmi"/>
+                <element inactive_on_update="false" label="Thomas Jefferson DICE" sequence="6" value="thomas_jefferson_dice"/>
+                <element inactive_on_update="false" label="GDIT" sequence="7" value="gdit"/>
+                <element inactive_on_update="false" label="Buchanan &amp; edwards" sequence="8" value="buchanan_edwards"/>
+                <element inactive_on_update="false" label="Accenture" sequence="9" value="accenture"/>
+                <element inactive_on_update="false" label="Leidos" sequence="10" value="leidos"/>
+                <element inactive_on_update="false" label="CACI" sequence="11" value="caci"/>
+                <element inactive_on_update="false" label="Unisys" sequence="12" value="unisys"/>
+                <element inactive_on_update="false" label="Booz Allen" sequence="13" value="booz_allen"/>
+                <element inactive_on_update="false" label="Bravium" sequence="14" value="bravium"/>
+                <element inactive_on_update="false" label="Wellcare" sequence="15" value="wellcare"/>
+                <element inactive_on_update="false" label="Aeritae" sequence="16" value="aeritae"/>
+                <element inactive_on_update="false" label="Raymond James" sequence="17" value="raymond_james"/>
+                <element inactive_on_update="false" label="TripPoint" sequence="18" value="trippoint"/>
+                <element inactive_on_update="false" label="RoundTower" sequence="19" value="roundtower"/>
+                <element inactive_on_update="false" label="Perspecta" sequence="20" value="perspecta"/>
+                <element inactive_on_update="false" label="ReliaSource" sequence="21" value="reliasource"/>
+                <element inactive_on_update="false" label="CDI" sequence="22" value="cdi"/>
+                <element inactive_on_update="false" label="Other" sequence="23" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Client Contact" max_length="40" name="u_client_poc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Client Rejection Reason" max_length="40" name="u_client_rejection_reason" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Phone Interview Cancelled" sequence="0" value="cancelled"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Phone Interview Declined - Grad" sequence="1" value="pid_grad"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="In-Person Cancelled" sequence="2" value="inperson_cancelled"/>
+                <element inactive_on_update="false" label="In-Person Conducted / Declined - Grad" sequence="3" value="declined_grad"/>
+                <element inactive_on_update="false" label="Not interested - Commercial" sequence="4" value="nic"/>
+                <element inactive_on_update="false" label="Not Enough Experience" sequence="5" value="experience"/>
+                <element inactive_on_update="false" label="Clearance Level" sequence="6" value="clearance"/>
+                <element inactive_on_update="false" label="Other" sequence="7" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Client Relationship Contact" max_length="40" name="u_client_relationship" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="ME" sequence="0" value="me"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="EA" sequence="1" value="ea"/>
+                <element inactive_on_update="false" label="AF" sequence="2" value="af"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="u_glide_date_time_4" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Interviewee" max_length="32" name="u_interviewee" reference="x_366445_nefta_tra_applicants" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Interview Date" max_length="40" name="u_interview_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Interview Notes" max_length="4000" name="u_interview_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Interview Status" max_length="40" name="u_interview_status" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Shown Interest (no movement)" sequence="0" value="shown_interest"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="CV sent" sequence="1" value="cv_sent"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Phone Interview Scheduled" sequence="2" value="phone_interview_scheduled"/>
+                <element inactive_on_update="false" label="Phone Interview Conducted" sequence="3" value="phone_interview_conducted"/>
+                <element inactive_on_update="false" label="In-Person Requested" sequence="4" value="inperson_requested"/>
+                <element inactive_on_update="false" label="In-Person Conducted" sequence="5" value="inperson_conducted"/>
+                <element inactive_on_update="false" label="Offer Pending" sequence="6" value="offer_pending"/>
+                <element inactive_on_update="false" label="Offer Made / Accepted" sequence="7" value="offer_made_accepted"/>
+                <element inactive_on_update="false" label="Placed - Perm" sequence="8" value="placed_perm"/>
+                <element inactive_on_update="false" label="Placed - Contract" sequence="9" value="placed_contract"/>
+                <element inactive_on_update="false" label="Interviewee Rejected" sequence="10" value="Interviewee Rejected"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Other Client Name" max_length="40" name="u_other_client" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other Reason" max_length="40" name="u_other_reason" type="string"/>
+        <index name="index">
+            <element name="u_interviewee"/>
+        </index>
+    </element>
+</database>

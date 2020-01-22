@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_other_client</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>richard.supak</sys_created_by>
+        <sys_created_on>2020-01-22 01:29:32</sys_created_on>
+        <sys_id>70afb7acdbe600100bcd7a6139961983</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>u_other_client</sys_name>
+        <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+        <sys_update_name>sys_ui_policy_action_70afb7acdbe600100bcd7a6139961983</sys_update_name>
+        <sys_updated_by>richard.supak</sys_updated_by>
+        <sys_updated_on>2020-01-22 01:33:50</sys_updated_on>
+        <table>x_366445_nefta_tra_interviews</table>
+        <ui_policy display_value="Other Client Field">b48f37acdbe600100bcd7a613996192d</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

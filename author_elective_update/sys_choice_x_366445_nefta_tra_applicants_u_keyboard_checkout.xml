@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_keyboard_checkout" table="x_366445_nefta_tra_applicants" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_keyboard_checkout</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Checked Out</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>0</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2aa0374db2200100bcd7a6139961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
+            <value>checked_out</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_keyboard_checkout</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Returned</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>1</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72aa0374db2200100bcd7a6139961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
+            <value>returned</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_keyboard_checkout</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Out for Repair</label>
+            <language>en</language>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sequence>2</sequence>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7eaa0374db2200100bcd7a6139961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
+            <value>out_for_repair</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_keyboard_checkout</element>
+            <name>x_366445_nefta_tra_applicants</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>richard.supak</sys_created_by>
+            <sys_created_on>2020-01-22 16:16:21</sys_created_on>
+            <sys_id>7aaa0374db2200100bcd7a6139961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_keyboard_checkout</sys_name>
+            <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+            <sys_update_name>sys_choice_x_366445_nefta_tra_applicants_u_keyboard_checkout</sys_update_name>
+            <sys_updated_by>richard.supak</sys_updated_by>
+            <sys_updated_on>2020-01-22 16:16:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

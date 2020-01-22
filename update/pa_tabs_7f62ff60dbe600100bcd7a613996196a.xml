@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA New Tab">3b62ff60dbe600100bcd7a6139961968</canvas_page>
+        <name>New Tab</name>
+        <page display_value="PA New Tab">ff62ff60dbe600100bcd7a6139961967</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>richard.supak</sys_created_by>
+        <sys_created_on>2020-01-22 00:31:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7f62ff60dbe600100bcd7a613996196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+        <sys_update_name>pa_tabs_7f62ff60dbe600100bcd7a613996196a</sys_update_name>
+        <sys_updated_by>richard.supak</sys_updated_by>
+        <sys_updated_on>2020-01-22 00:31:36</sys_updated_on>
+    </pa_tabs>
+</record_update>

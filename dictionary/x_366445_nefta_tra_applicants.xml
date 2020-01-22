@@ -16,18 +16,26 @@
         <element attributes="edge_encryption_enabled=true" choice="1" label="Class" max_length="40" name="u_class" type="string">
             <choice>
                 <element inactive_on_update="false" label="Class 1" sequence="0" value="class1"/>
+                <element inactive="true" inactive_on_update="true" label="Class3" sequence="0" value="class3"/>
                 <element inactive_on_update="false" label="Class 2" sequence="1" value="class2"/>
-                <element inactive_on_update="false" label="Class3" sequence="2" value="class3"/>
+                <element inactive_on_update="false" label="Class 3" sequence="2" value="Class 3"/>
                 <element inactive_on_update="false" label="Class 4" sequence="3" value="class4"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Clearance" max_length="40" name="u_clearance" type="string">
             <choice>
                 <element inactive_on_update="false" label="Secret" sequence="0" value="secret"/>
-                <element inactive_on_update="false" label="Top Secret" sequence="1" value="topsecret"/>
+                <element inactive_on_update="false" label="Top Secret" sequence="1" value="top_secret"/>
+                <element inactive_on_update="false" label="TS / SCI" sequence="2" value="ts_sci"/>
+                <element inactive_on_update="false" label="TS FS Poly" sequence="3" value="full_scope_poly"/>
+                <element inactive_on_update="false" label="TS SS Poly" sequence="4" value="single_scope_poly"/>
+                <element inactive_on_update="false" label="TS LT Poly" sequence="5" value="lifetime_poly"/>
+                <element inactive_on_update="false" label="TS Elegible" sequence="6" value="ts_eligible"/>
+                <element inactive_on_update="false" label="Secret Eligible" sequence="7" value="secret_eligible"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Computer SN" max_length="40" name="u_computer" type="string"/>
+        <element label="Computer Bag Checked Out" max_length="40" name="u_computerbag" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Computer Checkout Status" max_length="40" name="u_computer_checkout" type="string">
             <choice>
                 <element inactive_on_update="false" label="Checked Out" sequence="0" value="checked_out"/>
@@ -36,14 +44,34 @@
             </choice>
         </element>
         <element attributes="encode_utf8=false" label="Contacted By" max_length="32" name="u_contacted_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Journal" max_length="4000" name="u_contact_journal" type="journal"/>
         <element attributes="edge_encryption_enabled=true" label="Contact Notes" max_length="40" name="u_contact_notes" type="string"/>
         <element label="CSA" max_length="40" name="u_csa" type="boolean"/>
         <element label="CSA Certificate" max_length="40" name="u_csa_cert" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Docking Station SN" max_length="40" name="u_docking_station" type="string"/>
         <element label="New File Attachment" max_length="40" name="u_file_attachment_10" type="file_attachment"/>
         <element label="New File Attachment" max_length="40" name="u_file_attachment_8" type="file_attachment"/>
         <element label="New File Attachment" max_length="40" name="u_file_attachment_9" type="file_attachment"/>
+        <element label="Pass Final Interview" max_length="40" name="u_final_interview" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Keyboard SN" max_length="40" name="u_keyboard" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Keyboard Checkout Status" max_length="40" name="u_keyboard_checkout" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Checked Out" sequence="0" value="checked_out"/>
+                <element inactive_on_update="false" label="Returned" sequence="1" value="returned"/>
+                <element inactive_on_update="false" label="Out for Repair" sequence="2" value="out_for_repair"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Mouse SN" max_length="40" name="u_mouse" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Mouse Checkout Status" max_length="40" name="u_mouse_checkout" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Checked Out" sequence="0" value="checked_out"/>
+                <element inactive_on_update="false" label="Returned" sequence="1" value="returned"/>
+                <element inactive_on_update="false" label="Out for Repair" sequence="2" value="out_for_repair"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Recruitment Consultant" max_length="40" name="u_recruitment_consultant" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Referred By" max_length="40" name="u_referred_by" type="string"/>
+        <element attributes="encode_utf8=false" label="Rejected By" max_length="32" name="u_rejected_by" reference="sys_user" type="reference"/>
         <element label="Rejection Letter Sent" max_length="40" name="u_rejection_letter_sent" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Rejection Reason" max_length="40" name="u_rejection_reason" type="string"/>
         <element label="Resume" max_length="40" name="u_resume" type="file_attachment"/>
@@ -51,6 +79,7 @@
             <choice>
                 <element inactive_on_update="false" label="Accept" sequence="0" value="accept"/>
                 <element inactive_on_update="false" label="Reject" sequence="1" value="reject"/>
+                <element inactive_on_update="false" label="Hold" sequence="2" value="hold"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Source" max_length="40" name="u_source" type="string">
@@ -58,14 +87,24 @@
                 <element inactive="true" inactive_on_update="true" label="Coretta Roddey (NYLC)" sequence="0" value="coretta_roddey"/>
                 <element inactive_on_update="false" label="HHUSA" sequence="0" value="hhusa"/>
                 <element inactive_on_update="false" label="NeFTA Website" sequence="1" value="nefta website"/>
-                <element inactive_on_update="false" label="Jeannie Santiago (NYLC)" sequence="2" value="jeannie_santiago"/>
-                <element inactive_on_update="false" label="Referral" sequence="3" value="referral"/>
+                <element inactive_on_update="false" label="LinkedIn" sequence="2" value="LinkedIn"/>
+                <element inactive_on_update="false" label="Jeannie Santiago (NYLC)" sequence="3" value="jeannie_santiago"/>
+                <element inactive_on_update="false" label="Veteran Connection" sequence="4" value="Veteran Connection"/>
+                <element inactive_on_update="false" label="Referral" sequence="5" value="referral"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_2" type="string"/>
         <element label="Pass Tech Interview" max_length="40" name="u_tech_interview" type="boolean"/>
+        <element label="Total Interviews" max_length="40" name="u_totalinterviews" type="integer"/>
+        <element label="Total Interviews" max_length="40" name="u_total_interviews" read_only="true" type="integer"/>
         <index name="index">
             <element name="u_contacted_by"/>
+        </index>
+        <index name="index2">
+            <element name="name"/>
+        </index>
+        <index name="index3">
+            <element name="u_rejected_by"/>
         </index>
     </element>
 </database>

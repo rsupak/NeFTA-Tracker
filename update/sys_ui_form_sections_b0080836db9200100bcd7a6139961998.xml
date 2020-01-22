@@ -70,20 +70,6 @@
             <sys_updated_by>richard.supak</sys_updated_by>
             <sys_updated_on>2020-01-16 03:52:20</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>5</position>
-            <sys_created_by>richard.supak</sys_created_by>
-            <sys_created_on>2020-01-16 03:53:41</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6d2721fadbd600100bcd7a613996199b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_366445_nefta_tra_applicants" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">b0080836db9200100bcd7a6139961998</sys_ui_form>
-            <sys_ui_section caption="Interviews" display_value="Interviews" name="x_366445_nefta_tra_applicants" sys_domain="global" view="Default view">e12721fadbd600100bcd7a6139961998</sys_ui_section>
-            <sys_updated_by>richard.supak</sys_updated_by>
-            <sys_updated_on>2020-01-16 03:53:41</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_366445_nefta_tra_applicants</name>
             <roles/>

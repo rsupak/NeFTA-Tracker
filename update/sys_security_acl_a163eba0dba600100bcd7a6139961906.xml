@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_366445_nefta_tra_interviews</description>
+        <name>x_366445_nefta_tra_interviews</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>richard.supak</sys_created_by>
+        <sys_created_on>2020-01-21 23:25:55</sys_created_on>
+        <sys_id>a163eba0dba600100bcd7a6139961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366445_nefta_tra_interviews</sys_name>
+        <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+        <sys_update_name>sys_security_acl_a163eba0dba600100bcd7a6139961906</sys_update_name>
+        <sys_updated_by>richard.supak</sys_updated_by>
+        <sys_updated_on>2020-01-21 23:25:55</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

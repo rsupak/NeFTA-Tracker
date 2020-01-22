@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="My Homepage 1">73627b60dbe600100bcd7a61399619e8</dashboard>
+        <home>false</home>
+        <homepage display_value="My Homepage 1">d232f760dbe600100bcd7a6139961976</homepage>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>richard.supak</sys_created_by>
+        <sys_created_on>2020-01-22 00:31:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b762ff60dbe600100bcd7a613996196d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>73627b60dbe600100bcd7a61399619e8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeFTA Tracker" source="x_366445_nefta_tra">35944c32db9200100bcd7a61399619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeFTA Tracker">35944c32db9200100bcd7a61399619b4</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_b762ff60dbe600100bcd7a613996196d</sys_update_name>
+        <sys_updated_by>richard.supak</sys_updated_by>
+        <sys_updated_on>2020-01-22 00:31:37</sys_updated_on>
+        <tab display_value="New Tab">7f62ff60dbe600100bcd7a613996196a</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

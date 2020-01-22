@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Applicant Imports" max_length="40" name="x_366445_nefta_tra_applicant_imports" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Clearance" label="Clearance" max_length="40" name="u_clearance" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Phone Number" label="Phone Number" max_length="40" name="u_phone_number" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Source" label="Source" max_length="40" name="u_source" type="string"/>
+    </element>
+</database>
